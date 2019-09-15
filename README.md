@@ -1,2 +1,4 @@
-# BACS350
-UNC BACS 350 - Student Code - Mark Seaman
+# BACS_350_2018_Fall
+* University of Northern Colorado
+* BACS 350 (Business Administration Computer Science)
+* Code Examples
